@@ -17,7 +17,7 @@ highlight_code = false
 highlight_theme = "inspired-github"
 
 [extra]
-juice_logo_name = "Lucas J. Hinkelman"
+juice_logo_name = ""
 juice_logo_path = "LJ_only_large.svg"
 # juice_extra_menu = [
 #    { title = "GitHub", link = "https://github.com/hinkelman/lj-website" }
