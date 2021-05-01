@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1590d313-f8a0-4d05-890a-034fa21c0b3f/deploy-status)](https://app.netlify.com/sites/upbeat-torvalds-c9943f/deploys)
